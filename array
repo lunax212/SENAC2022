@@ -1,0 +1,29 @@
+<?php
+/**exercicio 6 
+ * 
+ */
+$numerador=10
+$denominador=0
+
+if($numerador == 0 || $denominador == 0)
+echo "divisao por zero";
+else 
+echo $numerador/$denominador;
+
+#10/0->errado
+#0/10-> certo
+
+//***aula03 */
+
+$alunos = array();#inicia um array sem valores
+$nomes = array("andre","antonio", "caio", "bianca");#inicia um array sem valores
+$professores[]= "luis";
+
+#acessar a terceira posição (n-1)
+echo $nomes[2] . "\n\n";
+
+#funçao para imprimir um array inteiro 
+print_r($nomes);
+echo"\n\n";
+
+var_dump($nomes);
