@@ -1,0 +1,15 @@
+<?php
+
+$numero_int = 12;
+$sucessor= $numero_int+1;
+$antecessor=$numero_int-1;
+echo("o antecessor de 12 é: " . $antecessor);
+echo("o sucessor de 12 é: " . $sucecessor);
+
+
+
+if n <0 ;
+echo("numero negativo");
+else {
+echo("numero positivo");
+}
