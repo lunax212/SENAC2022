@@ -1,0 +1,12 @@
+<?php
+
+$numero_int = 5;
+echo($numero_int++);
+echo(++$numero_int);
+
+
+if n <0 ;
+echo("numero negativo");
+else {
+echo("numero positivo");
+}
