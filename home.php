@@ -28,8 +28,9 @@
           <li> <a href="home.php">Home</a> </li>
           <li> <a href="quemsomos.html">LojaTec</a> </li>
           <li> <a href="produtos.html">Fotos</a> </li>
+          <li> <a href="cliente.html">Atendimento</a> </li>
           <li> <a href="cliente.html">Acessórios</a> </li>
-          <li> <a href="contato.html">Camêras</a> </li>
+          <li> <a href="contato.html">Câmeras e Alarmes</a> </li>
           <li> <a href="contato.html">Contato</a> </li>
       </ul>
       <p class="contato"> (21) xxxx-xxxx |(21) xxxx-xxxx |(21) xxxx-xxxx |(21) xxxx-xxxx  </p>
